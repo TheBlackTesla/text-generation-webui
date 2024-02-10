@@ -4,7 +4,7 @@ datasets
 einops
 flexgen==0.1.7
 gradio_client==0.2.5
-gradio==3.33.1
+gradio==4.11.0
 markdown
 numpy
 pandas
@@ -15,7 +15,7 @@ safetensors==0.3.1
 sentencepiece
 tqdm
 scipy
-transformers==4.30.2
+transformers==4.36.0
 git+https://github.com/huggingface/peft@03eb378eb914fbee709ff7c86ba5b1d033b89524
 bitsandbytes==0.39.1; platform_system != "Windows"
 https://github.com/jllllll/bitsandbytes-windows-webui/releases/download/wheels/bitsandbytes-0.39.1-py3-none-win_amd64.whl; platform_system == "Windows"
